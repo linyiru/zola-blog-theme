@@ -1,4 +1,4 @@
-base_url = "https://[YOUR_USERNAME].github.io"
+base_url = "https://zola-blog.netlify.app"
 build_search_index = false
 compile_sass = false
 default_language = "zh"
@@ -65,7 +65,7 @@ paths = "on"
 taxonomies = "on"
 
 [translations]
-label_toggle_more="展开全部"
+label_toggle_more = "展开全部"
 keywords = "注意力, 读书, 工具分享, 纯文本, 英语学习"
 label_activity = "动态"
 label_all_posts = "[点击查看所有文章🔥🔥](/blog/)"
