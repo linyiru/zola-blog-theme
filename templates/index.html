@@ -70,9 +70,7 @@
           {% for page in note_pages %}
             <li>{{ macro::post_min(page=page) }}</li>
           {% endfor %}
-          </ul>
+        </ul>
 
       </section>
-      {{ macro::webmentions(backlinks=[])}}
-
 {% endblock main -%} 

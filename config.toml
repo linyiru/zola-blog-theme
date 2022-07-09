@@ -1,15 +1,15 @@
-base_url = "https://www.owenyoung.com"
+base_url = "https://[YOUR_USERNAME].github.io"
 build_search_index = false
 compile_sass = false
 default_language = "zh"
-description = "主要关注技术，读书，摘抄，杂谈，文章评论，工具分享，工作流，灵感，英文学习，注意力管理，深度工作等方向"
+description = ""
 generate_feed = true
 generate_rss = true
 taxonomies = [
   {name = "tags", feed = true, paginate_by = 25},
   {name = "categories", feed = true, paginate_by = 25},
 ]
-title = "Owen的博客"
+title = "Blog"
 
 [markdown]
 # When set to "true", all code blocks are highlighted.
@@ -47,8 +47,7 @@ bio = "Web developer, I like reading and explore the internet, so I have collect
 # disqus = "disqus-user"
 
 ### SOCIAL MEDIA
-# https://github.com/theowenyoung/blog/edit/main/content/blog/indieweb.en.md
-edit_url_prefix = "https://github.com/theowenyoung/blog/edit/main/content/"
+# https://github.com/theowenyoung/blog/edit/main@/blog/indieweb.en.md
 github_user = "theowenyoung"
 image = "https://www.owenyoung.com/logo.png"
 "label_action_in-reply-to" = "replied"
@@ -58,7 +57,6 @@ image = "https://www.owenyoung.com/logo.png"
 "label_action_repost-of" = "reposted"
 "label_action_rsvp" = "answered"
 twitter_user = "TheOwenYoung"
-webmention_path = "webmentions"
 ### I18N WORDS
 
 [slugify]
@@ -80,7 +78,6 @@ label_books = "全部书评"
 label_categories = "所有分类"
 label_category = "分类"
 label_created = "发布于"
-label_edit = "帮我完善这个页面？"
 "label_follow-of" = "关注"
 label_home = "首页"
 "label_in-reply-to" = "回复"
@@ -95,8 +92,6 @@ label_rating = "我的评分"
 label_read_more = "继续阅读需要"
 label_reading = "阅读时间"
 "label_repost-of" = "转发"
-label_response = "回应区"
-label_response_description = "以上的响应由 [webmention.io](https://webmention.io/) 收集，我记了[一篇](/content/blog/indieweb.en.md)如何实现这个的笔记。"
 label_rss = "订阅RSS"
 "label_rsvp" = "答复"
 label_table_contents = "快速导航"
@@ -130,7 +125,6 @@ label_books = "All books reviews"
 label_categories = "Categories"
 label_category = "Category"
 label_created = "Published"
-label_edit = "Edit this page"
 "label_follow-of" = "Follows"
 label_home = "Home"
 "label_in-reply-to" = "Replies"
@@ -145,8 +139,6 @@ label_rating = "Rating"
 label_read_more = "Continue to Read"
 label_reading = "Reading Time"
 "label_repost-of" = "Reposts"
-label_response = "Response"
-label_response_description = "The above responses are collected by the [webmention.io](https://webmention.io/) service. I also wrote [an article](/content/blog/indieweb.en.md) about how to achieve this."
 label_rss = "Subscribe RSS"
 "label_rsvp" = "RSVP"
 label_table_contents = "On this page"
