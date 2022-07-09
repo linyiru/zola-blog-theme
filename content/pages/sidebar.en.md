@@ -24,10 +24,10 @@ updated: 2022-06-04
 
 ## Other
 
-- [Twitter](https://twitter.com/TheOwenYoung)
-- [Github](https://github.com/theowenyoung)
+- [Twitter](https://twitter.com/linyiru)
+- [Github](https://github.com/linyiru)
 
 ## Archive
 
 - [Archive](/en/archive/)
-- [Source](https://github.com/theowenyoung/blog)
+- [Source](https://github.com/linyiru/zola-blog-theme)

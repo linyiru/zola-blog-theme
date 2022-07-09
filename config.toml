@@ -37,8 +37,8 @@ include_content = false
 
 [extra]
 author = "Owen Young"
-email = "owen@owenyoung.com"
-prefix_url = "https://www.owenyoung.com"
+email = "hi@out-of-nowhere.com"
+prefix_url = "https://zola-blog.netlify.app"
 theme_color = "#f9f5e9"
 ### indieweb note
 bio = "Web developer, I like reading and explore the internet, so I have collected queit a few notes in my blog."
@@ -48,15 +48,15 @@ bio = "Web developer, I like reading and explore the internet, so I have collect
 
 ### SOCIAL MEDIA
 # https://github.com/theowenyoung/blog/edit/main@/blog/indieweb.en.md
-github_user = "theowenyoung"
-image = "https://www.owenyoung.com/logo.png"
+github_user = "linyiru"
+image = "https://zola-blog.netlify.app/logo.png"
 "label_action_in-reply-to" = "replied"
 "label_action_like-of" = "liked"
 "label_action_mention-of" = "mentioned"
 "label_action_reply-to" = "replied"
 "label_action_repost-of" = "reposted"
 "label_action_rsvp" = "answered"
-twitter_user = "TheOwenYoung"
+twitter_user = "linyiru"
 ### I18N WORDS
 
 [slugify]

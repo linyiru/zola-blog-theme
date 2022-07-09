@@ -23,10 +23,10 @@ updated: 2022-06-04
 
 ## 社交媒体
 
-- [Twitter](https://twitter.com/OwenYoungZh)
-- [Github](https://github.com/theowenyoung)
+- [Twitter](https://twitter.com/linyiru)
+- [Github](https://github.com/linyiru)
 
 ## 存档
 
 - [所有文章存档](/archive/)
-- [本站源码](https://github.com/theowenyoung/blog)
+- [本站源码](https://github.com/linyiru/zola-blog-theme)
