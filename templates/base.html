@@ -31,8 +31,7 @@
   rel="webmention"
   href="https://webmention.io/www.owenyoung.com/webmention"
 />
-    <link rel="stylesheet" href="{{ get_url(path="site/styles/site.css",
-    trailing_slash=false,cachebust=true) | safe }}">
+    <link rel="stylesheet" href="/site/styles/site.css">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta
       name="description"
@@ -138,7 +137,7 @@ type="application/atom+xml" title="{{ config.title }} - RSS" href="{{ get_url(pa
         <div class="navbar-inner justify-between">
           <div>
             <a class="brand" href="{{ config.base_url~lang_prefix_path }}">
-              <img class="icon" alt="Owen" src="{{ get_url(path="site/images/favicon-96x96.png",cachebust=true) }}"></img>
+              HI!
             </a> 
           </div>
           <div>
