@@ -9,7 +9,7 @@ taxonomies = [
   {name = "tags", feed = true, paginate_by = 25},
   {name = "categories", feed = true, paginate_by = 25},
 ]
-title = "Blog"
+title = "Zola Blog Theme"
 
 [markdown]
 # When set to "true", all code blocks are highlighted.
@@ -36,7 +36,7 @@ include_path = true
 include_content = false
 
 [extra]
-author = "Owen Young"
+author = "Lawrence Lin"
 email = "hi@out-of-nowhere.com"
 prefix_url = "https://zola-blog.netlify.app"
 theme_color = "#f9f5e9"
@@ -109,7 +109,7 @@ taxonomies = [
   {name = "tags", feed = true, paginate_by = 25},
   {name = "categories", feed = true, paginate_by = 25},
 ]
-title = "Owen Young's Blog"
+title = "Zola Blog Theme"
 [languages.en.translations]
 keywords = "Focus, Reading, Tool sharing, Plain text, English learning"
 label_activity = "Activity"
