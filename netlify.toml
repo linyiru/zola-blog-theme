@@ -13,6 +13,5 @@ ZOLA_VERSION = "0.15.3"
 # We need to override the base url with whatever url Netlify assigns to our
 # preview site.  We do this using the Netlify environment variable
 # `$DEPLOY_PRIME_URL`.
-
 [context.deploy-preview]
 command = "zola build --base-url $DEPLOY_PRIME_URL"
